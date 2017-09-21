@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:PolicySet xmlns:xacml="classpath:xsd/xacml-core-v3-schema-wd-17.xsd" xmlns:ns2="urn:oasis:names:tc:xacml:3.0:core:schema:wd-17" PolicySetId="/:2016.11.01.16.32.00.020" Version="2016.11.01.16.32.00.020" PolicyCombiningAlgId="urn:oasis:names:tc:xacml:3.0:rule-combining-algorithm:deny-overrides">
+    <ns2:Target/>
+</ns2:PolicySet>
